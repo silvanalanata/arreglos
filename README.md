@@ -1,0 +1,1 @@
+# se crea archivo html con scrip para desarrollar algoritmos de arreglos
